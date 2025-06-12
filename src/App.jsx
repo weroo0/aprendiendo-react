@@ -1,5 +1,6 @@
 import Ejercicio01 from "./components/ejercicio01"
 import Ejercicio02 from "./components/Ejercicio02"
+import Ejercicio03 from "./components/Ejercicio03"
 import BotonGenerar from "./components/utils/BotonGenerar"
 import ComponenteBotones from "./components/utils/ComponenteBotones"
 
@@ -20,6 +21,7 @@ function App() {
         <BotonGenerar/>
         <ComponenteBotones/>
         <Ejercicio02/>
+        <Ejercicio03/>
 
       </div>
 
